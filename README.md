@@ -5,7 +5,11 @@ I'm Gautam Dawar, a passionate developer specializing in C++ and problem-solving
 - 🌱 Learning: Express.js and Node.js
 - 💬 Ask me about: DSA, C++, Java, C, and Web development.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautam-dawar-99&show_icons=true)
+
+
+## My Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-dawar-99&layout=compact)
+
 
 ### Languages : 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
