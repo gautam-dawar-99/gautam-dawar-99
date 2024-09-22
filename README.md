@@ -8,8 +8,7 @@ I'm Gautam Dawar, a passionate developer specializing in C++ and problem-solving
 
 
 ## My Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-dawar-99&layout=compact)
-\![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-dawar-99&layout=compact&langs_count=3&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-dawar-99&layout=compact&langs_count=3&card_width=400)
 
 
 
