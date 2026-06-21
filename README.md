@@ -83,6 +83,6 @@
 
 ## 💬 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gautam-dawar-
 - 💻 GitHub: https://github.com/gautam-dawar-99
 - 🧠 LeetCode: https://leetcode.com/u/Gautam__Dawar/
